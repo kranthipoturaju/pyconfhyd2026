@@ -72,7 +72,7 @@ const Hero = () => {
   return (
     <section
       className="
-      w-screen
+      w-full
       aspect-[9/16] sm:aspect-[3/4] md:aspect-[4/3] lg:aspect-[21/9]
       bg-primary-400 dark:bg-primary-600
       max-h-screen

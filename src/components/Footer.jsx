@@ -10,7 +10,7 @@ const Footer = () => (
   <footer
     id="footer"
     className="
-        w-screen
+        w-full
         p-4
         mt-4
         bg-secondary-700
