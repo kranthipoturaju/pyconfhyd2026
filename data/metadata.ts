@@ -13,11 +13,11 @@ export const metadata: Metadata = {
   },
   icons: {
     icon: [
-      { url: ASSETS.navbarLogoUrl },
-      { url: ASSETS.navbarLogoUrl, sizes: '16x16', type: 'image/svg+xml' },
-      { url: ASSETS.navbarLogoUrl, sizes: '32x32', type: 'image/svg+xml' },
+      { url: ASSETS.favIconUrl },
+      { url: ASSETS.favIconUrl, sizes: '16x16', type: 'image/svg+xml' },
+      { url: ASSETS.favIconUrl, sizes: '32x32', type: 'image/svg+xml' },
     ],
-    apple: { url: ASSETS.navbarLogoUrl },
+    apple: { url: ASSETS.favIconUrl },
   },
   openGraph: {
     title: {

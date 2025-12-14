@@ -34,6 +34,7 @@ export const CONFERENCE = {
 };
 
 export const ASSETS = {
+  favIconUrl:'/images/favIcon.svg',
   navbarLogoUrl: '/images/navbarLogo.svg',
   navbarimgAlt: 'PyConf Hyderabad 2026 Python Logo',
   logoUrl: '/images/logo.svg',
