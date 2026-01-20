@@ -31,7 +31,18 @@ Before you start, ensure you have Node.js and a package manager installed on you
      ```
    - Alternatively, you can use other package managers like Yarn or pnpm.
 
-4. **Run the Development Server**:
+4. **Install Dependencies**:
+
+   - Install the project dependencies using your preferred package manager:
+     ```bash
+     npm install
+     # or
+     yarn install
+     # or
+     pnpm install
+     ```
+
+5. **Run the Development Server**:
 
    - Once Node.js and a package manager are installed, you can start the development server:
 
@@ -69,6 +80,11 @@ This year's focus is on improving the template while seamlessly integrating it w
 ### How to Contribute
 
 We welcome all contributions—bug fixes, feature implementations, or documentation updates.
+
+#### Quick Setup Checklist
+
+- Install dependencies (`npm install`, `yarn install`, or `pnpm install`).
+- Run the formatter and linter (`make pre-push`).
 
 #### Steps to Contribute
 
